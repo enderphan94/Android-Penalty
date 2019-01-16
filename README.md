@@ -1,5 +1,6 @@
 # Android-Penalty
 
+This has been moved to : https://enderphane-cyber.ee/
 
 # Check List
 
